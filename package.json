@@ -16,6 +16,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
   "devDependencies": {
     "react-scripts": "latest",
     "eslint-plugin-react": "^7.20.5"

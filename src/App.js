@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import Post from './Post';
-import logo from './logo.png';
+import logo from './logo.svg';
 import { db, auth } from './firebase';
 import { makeStyles } from '@material-ui/core/styles';
 import Modal from '@material-ui/core/Modal';

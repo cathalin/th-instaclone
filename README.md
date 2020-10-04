@@ -1,3 +1,3 @@
-# th-instaclone
+# Instagram Clone with REACT JS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/th-instaclone)
+[made by CathaliN ⚡️](https://www.linkedin.com/in/cathalin/)
